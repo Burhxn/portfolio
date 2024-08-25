@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Algo Academy",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Gym Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Coming soon",
+    "skills": ["React", "Express", "Node", "Sass", "PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
