@@ -4,8 +4,8 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://give-metask.vercel.app",
+    "source": "give-metask.vercel.app"
   },
   {
     "title": "Gym Management System",
